@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
 
     private ArtistaAdapter adapter;
 
-//    public static final Artista sArtista = new Artista();
+//  Comprobando que funciona nuestro control de versiones.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
